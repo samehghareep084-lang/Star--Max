@@ -30,11 +30,11 @@ window.addEventListener("load",()=>{
 const bgContainer = document.querySelector(".background-icons");
 
 const images = [
-    "images/15.jpg",
-    "images/16.jpg",
-    "images/17.jpg",
-    "images/18.jpg",
-    "images/19.jpg"
+    "15.jpg",
+    "16.jpg",
+    "17.jpg",
+    "18.jpg",
+    "19.jpg"
 ];
 
 function createFloatingIcon(){
